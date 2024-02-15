@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ClassRoom</string>
+    <string name="_1st_semester">1st Semester</string>
+    <string name="_2nd_semester">2nd Semester</string>
+    <string name="_3rd_semester">3rd Semester</string>
+    <string name="_4th_semester">4th Semester</string>
+    <string name="_8th_semester">8th Semester</string>
+    <string name="_7th_semester">7th Semester</string>
+    <string name="_5th_semester">5th Semester</string>
+    <string name="_6th_semester">6th Semester</string>
+    <string name="textview">TextView</string>
+    <string name="cse_221">CSE - 221</string>
+    <string name="sta_231">STA - 231</string>
+    <string name="cse_233">CSE - 233</string>
+    <string name="cse_231">CSE - 231</string>
+    <string name="cse_225">CSE - 225</string>
+    <string name="bangaladeshi_news">Bangaladeshi News</string>
+    <string name="bbc_news">BBC News</string>
+    <string name="pdfOne">pdfone</string>
+    <string name="pdfTwo">pdftwo</string>
+    <string name="pdfThree">pdthree</string>
+    <string name="pdfFour">pdffour</string>
+    <string name="pdfFive">pdffive</string>
+    <string name="pdfSix">pdfsix</string>
+    <string name="pdfSeven">pdfseven</string>
+    <string name="pdfEight">pdfeight</string>
+    <string name="intro">Intro</string>
+    <string name="sdlc">SDLC</string>
+    <string name="sdlc_models">SDLC Models</string>
+    <string name="sp_management">SP Management</string>
+</resources>
